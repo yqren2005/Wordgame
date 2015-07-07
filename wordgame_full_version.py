@@ -1,4 +1,4 @@
-from ps4a import *
+from wordgame_single_version import *
 
 def isValidWord2(word, hand):
     newhand = hand.copy()
